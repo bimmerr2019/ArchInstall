@@ -52,6 +52,15 @@ tools,udiskie,Automount devices
 tools,gparted,Partitioning tool
 tools,taskell,CLI kanban
 tools,torbrowser-launcher,TOR Browser
+tools,screenkey,Screenkey
+tools,ranger,Ranger
+tools,procmail,for mw
+tools,cron,crontab
+tools,mw,Mutt-wizard(AUR)
+tools,pam-gnupg,Get GPG keys without prompting (AUR)
+tools,w3m,neomutt view HTML
+tools,abook,neomutt address book
+tools,bumblebee-status,cool status line(AUR)
 graphism,gcolor2,Simple color selector
 graphism,pinta,Easy to use image editor
 graphism,libwebp,Image converter from jpg to webp
