@@ -65,7 +65,7 @@ tools,screenkey,Screenkey
 tools,ranger,Ranger
 tools,procmail,for mw
 tools,cron,crontab
-tools,mw,Mutt-wizard(AUR)
+tools,mutt-wizard-git,Mutt-wizard(AUR)
 tools,pam-gnupg,Get GPG keys without prompting (AUR)
 tools,w3m,neomutt view HTML
 tools,abook,neomutt address book
@@ -81,6 +81,10 @@ tools,zsh-theme-powerlevel10k-git,zsh-theme-powerlevel10k-git
 tools,urxvt-perls,urxvt-perls
 tools,electrum,electrum
 tools,bat,bat(AUR)
+tools,youtube-dl,youtube0dl (AUR)
+tools,notmuch,index and search email
+tools,adwaita-x-dark-and-light-theme,for gtk
+tools,flameshot,flameshot (AUR)
 graphism,gcolor2,Simple color selector
 graphism,pinta,Easy to use image editor
 graphism,libwebp,Image converter from jpg to webp
