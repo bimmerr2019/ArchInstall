@@ -78,7 +78,7 @@ tools,xorg-xcalc,calculator
 tools,pass,pass
 tools,tree,tree
 tools,zsh-theme-powerlevel10k-git,zsh-theme-powerlevel10k-git
-tools,urxvt-perls,urxvt-perls
+tools,urxvt-perls,urxvt-perls(AUR)
 tools,electrum,electrum
 tools,bat,bat(AUR)
 tools,youtube-dl,youtube0dl (AUR)
