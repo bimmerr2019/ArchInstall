@@ -29,7 +29,6 @@ tools,neovim-nightly-bin,up to date neovim
 tools,code,vscode
 tools,cmake,cmake
 tools,ecryptfs-utils,ecryptfs
-tools,unifi,unifi
 tools,jre8-openjdk-headless,openjdk-headless
 tools,update-grub,update-grub
 tools,qtkeychain,Qt API to store passwords
