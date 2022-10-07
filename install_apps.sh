@@ -59,12 +59,12 @@ apps=("essential" "Essentials" on
       "thunderbird" "Thunderbird" off
       "graphism" "Design" off
       "pandoc" "Pandoc and usefull dependencies" off
-      "office" "Office tools (Libreoffice...)" off
-      "vmware" "Vmware tools" off
+      "office" "Office tools (Libreoffice...)" on
+      "vmware" "Vmware tools" on
       "language" "Language tools" off
       "multimedia" "Multimedia" off
-      "nextcloud" "Nextcloud client" off
-      "network" "Network Configuration" off
+      "nextcloud" "Nextcloud client" on
+      "network" "Network Configuration" on
       "hugo" "Hugo static site generator" off
       "freemind" "Freemind - mind mapping software" off
       "doublecmd" "Double Commander - File explorer a la FreeCommander" off
