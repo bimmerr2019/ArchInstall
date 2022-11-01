@@ -130,7 +130,7 @@ mount "${hd}3" /mnt
 if [ "$uefi" = 1 ]; then
     mkfs.fat -F32 "${hd}1"
     mkdir -p /mnt/boot/efi
-    mount "${hd}"1 /mnt/boot/efi
+    mount "${hd}1" /mnt/boot/efi
 fi
 
 pacstrap /mnt base base-devel linux linux-firmware
