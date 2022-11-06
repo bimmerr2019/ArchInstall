@@ -44,8 +44,9 @@ apps=("essential" "Essentials" on
       "keyring" "Keyring applications" on
       "urxvt" "Urxvt unicode" on
       "zsh" "Unix Z-Shell (zsh)" on
-      "ripgrep" "Ripgrep" on \
-      "firefox" "Firefox (browser)" on
+      "ripgrep" "Ripgrep" on 
+      "firefox" "Firefox (browser)" off
+      "brave" "Brave (browser)" on
       "qutebrowser" "Qutebrowser" on
       "vifm" "vifm (terminal file manager)" on
       "gtk" "GTK 3 themes and icons" on
@@ -60,7 +61,7 @@ apps=("essential" "Essentials" on
       "graphism" "Design" off
       "pandoc" "Pandoc and usefull dependencies" off
       "office" "Office tools (Libreoffice...)" on
-      "vmware" "Vmware tools" on
+      "vmware" "Vmware tools" off
       "language" "Language tools" off
       "multimedia" "Multimedia" off
       "nextcloud" "Nextcloud client" on
